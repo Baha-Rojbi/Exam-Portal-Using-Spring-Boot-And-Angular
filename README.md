@@ -13,6 +13,7 @@
 * CSS
 * BOOTSTRAP
 * Angular Material
+* Sweetalert2
 
 ## Here Two Roles Based Authentication
 * Admin Panel
