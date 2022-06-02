@@ -92,7 +92,19 @@
 
 ![Screenshot (116)](https://user-images.githubusercontent.com/80576654/171619534-c9b518f8-4c15-4046-b7ad-c5cbacefdc20.png)
 
+* When start the quiz it will instruction
+
 ![Screenshot (118)](https://user-images.githubusercontent.com/80576654/171620516-f44a66ca-0754-4e24-80c8-1d1bf9e84915.png)
 
-![Screenshot (118)](https://user-images.githubusercontent.com/80576654/171620393-8156d221-083a-4319-a2f0-4bfdaeb75116.png)
+![Screenshot (119)](https://user-images.githubusercontent.com/80576654/171620698-81ea7481-fc9c-4343-999a-d80661986f69.png)
+
+![Screenshot (120)](https://user-images.githubusercontent.com/80576654/171620735-03d345cb-a8e5-49cd-88da-f5c900b6db54.png)
+
+![Screenshot (121)](https://user-images.githubusercontent.com/80576654/171620763-46d28892-588b-42d3-a225-53448d4946a2.png)
+
+![Screenshot (122)](https://user-images.githubusercontent.com/80576654/171620788-8d4f146d-262d-4933-ade0-36de19b564f6.png)
+
+![Screenshot (123)](https://user-images.githubusercontent.com/80576654/171620817-0c812770-5509-4555-b7c2-8ce67506177f.png)
+
+
 
