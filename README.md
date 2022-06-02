@@ -25,6 +25,7 @@
 ### User Panel:-
 * User can attempt quizzes
 * User Can View category And quizzes
+* User Can acces active quizzes
 ##
 # Public Interface
 
@@ -74,3 +75,21 @@
 ##
 
 # User Interface:-
+
+![Screenshot (111)](https://user-images.githubusercontent.com/80576654/171619289-cb1ee244-92a9-454d-a376-82d068066a18.png)
+
+* Home Page And All Quizzes
+
+![Screenshot (112)](https://user-images.githubusercontent.com/80576654/171619311-514146e5-2be1-4617-b968-0f526f470617.png)
+
+* User Profile
+
+![Screenshot (113)](https://user-images.githubusercontent.com/80576654/171619458-2b8977a9-172a-4d7c-9947-33d65be5e178.png)
+
+![Screenshot (114)](https://user-images.githubusercontent.com/80576654/171619498-ca294c66-5c68-4caa-b0d1-4800e0fd9780.png)
+
+![Screenshot (115)](https://user-images.githubusercontent.com/80576654/171619516-498197e8-7afa-433f-8572-b774e24b8045.png)
+
+![Screenshot (116)](https://user-images.githubusercontent.com/80576654/171619534-c9b518f8-4c15-4046-b7ad-c5cbacefdc20.png)
+
+
