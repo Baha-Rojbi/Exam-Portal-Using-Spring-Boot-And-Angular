@@ -38,7 +38,8 @@
 
 ##
 # Admin Interface
-* Login admin user name
+* Login with Admin
+
 ![Screenshot (99)](https://user-images.githubusercontent.com/80576654/171617848-314261a2-8aa2-4f29-a17a-6a23c54152e3.png)
 
 * If login details wrong means it pop like this
