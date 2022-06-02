@@ -102,7 +102,7 @@
 
 ![Screenshot (121)](https://user-images.githubusercontent.com/80576654/171620763-46d28892-588b-42d3-a225-53448d4946a2.png)
 
-![Screenshot (122)](https://user-images.githubusercontent.com/80576654/171620788-8d4f146d-262d-4933-ade0-36de19b564f6.png)
+* After submit the quiz it's shows result and also you can print it
 
 ![Screenshot (123)](https://user-images.githubusercontent.com/80576654/171620817-0c812770-5509-4555-b7c2-8ce67506177f.png)
 
