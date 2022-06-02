@@ -44,7 +44,8 @@
 
 ![Screenshot (99)](https://user-images.githubusercontent.com/80576654/171617848-314261a2-8aa2-4f29-a17a-6a23c54152e3.png)
 
-* If login details wrong means it pop like this
+* If login details are wrong,it pop like this
+
 ![Screenshot (100)](https://user-images.githubusercontent.com/80576654/171617957-7cfee502-2c3f-42ca-961c-130167b6b015.png)
 
 * If The Login Details is Right it will redirect into dashboard
