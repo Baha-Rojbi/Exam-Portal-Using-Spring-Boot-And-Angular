@@ -4,7 +4,7 @@
 * Angular as Frontend
 ### Spring Boot Requirements
 * Spring Web
-* JPQ
+* JPA
 * My SQL
 * Secutity
 * JWT
