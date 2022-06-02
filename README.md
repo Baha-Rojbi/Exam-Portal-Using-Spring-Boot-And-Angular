@@ -38,13 +38,37 @@
 
 ##
 # Admin Interface
+* Login admin user name
+![Screenshot (99)](https://user-images.githubusercontent.com/80576654/171617848-314261a2-8aa2-4f29-a17a-6a23c54152e3.png)
 
+* If login details wrong means it pop like this
+![Screenshot (100)](https://user-images.githubusercontent.com/80576654/171617957-7cfee502-2c3f-42ca-961c-130167b6b015.png)
+
+* If The Login Details is Right it will redirect into dashboard
 ## Admin Page
 
+![Screenshot (101)](https://user-images.githubusercontent.com/80576654/171618060-65fc2767-349f-4e71-94c1-50f61b64e1fd.png)
+
+## Profile
+![Screenshot (102)](https://user-images.githubusercontent.com/80576654/171618134-7958bb25-a3aa-41d1-a467-a6bfcd93a9f6.png)
+
+
 ## View category And Add Category
+![Screenshot (103)](https://user-images.githubusercontent.com/80576654/171618167-5fbc13ad-9b39-4b44-b095-3001c26ec843.png)
+
+![Screenshot (104)](https://user-images.githubusercontent.com/80576654/171618211-99c1ad41-9e24-48e7-a6b4-9b5cbe628c24.png)
 
 ## Add Quiz,Update Quiz,View Quiz And Delete
 
+![Screenshot (108)](https://user-images.githubusercontent.com/80576654/171618394-f5a3dd95-a7e0-4c82-ba38-ac75972f12a0.png)
+![Screenshot (106)](https://user-images.githubusercontent.com/80576654/171618433-45a3fff3-19cb-414e-ba21-8701add9ea53.png)
+![Screenshot (105)](https://user-images.githubusercontent.com/80576654/171618458-6d504902-013c-42c3-b2d5-d98fc102be56.png)
+
+
 ## Add Questions And view Questions
+![Screenshot (107)](https://user-images.githubusercontent.com/80576654/171618498-c6be7868-154c-46e1-97fd-fdc25efd6f58.png)
+![Screenshot (109)](https://user-images.githubusercontent.com/80576654/171618601-3402a270-99a2-4ae3-9336-ee078e12a349.png)
+
+##
 
 # User Interface:-
